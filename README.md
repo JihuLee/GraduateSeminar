@@ -1,3 +1,5 @@
 # GraduateSeminar
 
 Testing
+
+$`\mathbb{R}`$
